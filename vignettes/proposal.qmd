@@ -1,0 +1,14 @@
+# 260 Final Project Proposal
+## Enze Wu
+## BST260 Teaching Team, Fall 2026
+## Nov. 2026
+
+The project will be dedicated to identifying the etiological pattern of waterborne diseases related to setting/water exposure/state by clustering methods. 
+
+The unit of analysis is the entire dataset for the primary analysis to capture patterns across states. However, further progression will likely narrow the scope down to a few representative states of each broader region.
+
+Predictors setting (specific place of exposure), water exposure (type of water exposed), and state (within the US) are all coded as categorical.
+
+The etiology outcome is coded as categorical.
+
+Confounders to adjust for include year and month for time varying trends as they fit the classical definition of confounding with the operational definition to be checked in the exploratory analysis.
